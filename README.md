@@ -1,2 +1,0 @@
-# Centralized-repository
-Centraliszed Repository
